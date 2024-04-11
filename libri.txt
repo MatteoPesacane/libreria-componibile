@@ -1,0 +1,6 @@
+Piccolo Principe,Antoine de Saint-Exupéry,Classici,00
+Due vite,Emanuele Trevi,Letterario,00
+Conte di monte Cristo,Alexandre Dumas,Romanzo,00
+Divina Commedia,Dante Alighieri,Poema Epico,00
+Moby Dick,Herman Melville,Epico/Avventura,00
+Amleto,William Shakespeare,Drammatico,00
